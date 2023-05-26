@@ -1,0 +1,7 @@
+{
+  "extends": "@arias-ui/ts-config/base.json",
+  "includes": ["src"],
+  "compilerOptions": {
+    "jsx": "react-jsx"
+  }
+}
